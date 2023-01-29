@@ -1,0 +1,16 @@
+.light-circle{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-top: 30px;
+}
+.light-circle_red{
+    background-color: red;
+}
+.light-circle_green{
+    background-color: green;
+}
+.light-circle_yellow{
+    background-color: yellow;
+}
